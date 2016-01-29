@@ -1,6 +1,6 @@
 {
   "name": "letsencrypt-hook-azureblobstorage",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "LetsEncrypt hooks for Azure Blob Storage",
   "main": "lib/index.js",
   "dependencies": {
